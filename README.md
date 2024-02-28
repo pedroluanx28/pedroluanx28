@@ -14,7 +14,7 @@
   <img alt="MYSQL-luan" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   
   ## About me
-  - Front-End Developer :man:
-  - Full-Stack Developer loading... :thought_balloon:
+  - Ceará - BR :pushpin:
+  - Analysis and development of systems - Uniasselvi :books:
   
 <div/>
