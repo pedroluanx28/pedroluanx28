@@ -16,6 +16,5 @@
   ## About me
   - Front-End Developer :man:
   - Full-Stack Developer loading... :thought_balloon:
-  - I like cats :smiley_cat:
   
 <div/>
