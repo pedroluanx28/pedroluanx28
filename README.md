@@ -16,5 +16,5 @@
   
   ## About me
   - Ceará - BR :pushpin:
-  - Computer Science - Estácio :books:
+  - Computer Science :books:
 <div/>
